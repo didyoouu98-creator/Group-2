@@ -1,0 +1,6 @@
+{
+  "name": "VerbaShift - Game-Powered Employee Attendance & Performance Hub",
+  "description": "Daily 2-minute word-guessing game terminal for employees to register attendance, paired with periodic attendance and cognitive performance reports for managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
